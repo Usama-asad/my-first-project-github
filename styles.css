@@ -1,12 +1,15 @@
 .head{
     background-color:aqua;
-    width: 300px;
+    width: 200px;
+    height: 200px;
 }
 .main{
     background-color:rgb(57, 174, 57);
-    width: 300px;
+    width: 200px;
+    height: 200px;
 }
 .footer{
     background-color:rgb(138, 62, 196);
-    width: 300px;
+    width: 200px;
+    height: 200px;
 }
